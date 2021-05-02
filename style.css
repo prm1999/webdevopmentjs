@@ -1,0 +1,9 @@
+.heading{
+    text-align: center;
+    text-emphasis-color: blue;
+    background-color: crimson;
+}
+.heading-font{
+    text-indent: 5px;
+    text-emphasis-style: bold;
+}
